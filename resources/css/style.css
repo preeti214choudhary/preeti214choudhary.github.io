@@ -411,6 +411,10 @@ header {
     padding: 5px;
 }
 
+.works-step p {
+    padding-top: 13px;
+}
+
 .btn-app:link,
 .btn-app:visited {
     border: 0;
